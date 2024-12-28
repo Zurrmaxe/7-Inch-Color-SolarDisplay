@@ -7,17 +7,23 @@ Hier erstmal die wichtigsten Infos zum Display:
 https://github.com/lovyan03/LovyanGFX/discussions/424
 https://www.haraldkreuzer.net/aktuelles/erste-schritte-mit-dem-sunton-esp32-s3-7-zoll-display-lovyangfx-und-lvgl
 
-Hinweis;
-Bitte unbedingt die Einstellungenj in der Arduino IDE und der Libarys beachten ! 
-Nicht alle aktuellen Libarys laufen problemlos. 
+Hinweis:
+Bitte unbedingt die Einstellungen in der Arduino IDE und der Librarys beachten ! 
+Nicht alle aktuellen Librarys laufen problemlos. 
 Die aufgeführten Versionsnummern bitte beachten.
 
 Diese Anzeige kann natürlich auch für andere Inverter oder DTUs angepaßt werden. 
+
 Sie ist noch nicht fertig und wird laufend erweitert.
+
 Beim Druck auf dem Bildschirm wird die Beleuchtung etwas heller eingestellt.
+
 Eine Nachabschaltung wird noch kommen.
+
 Neben dem Datum wird noch die Qualität des WLAN angezeigt. 
+
 Ebenso die Anzeige der Raumtemperatur mit einem DHT11-Sensor, welcher am Display angeschlossen ist.
+
 Wenn kein Solarinverter bzw. die dazugehörige DTU "erreichbar" ist, wird das jeweilige Feld ausgeblendet.
 
 [7zoll_Solaranzeige271124.zip](https://github.com/user-attachments/files/18266139/7zoll_Solaranzeige271124.zip)
